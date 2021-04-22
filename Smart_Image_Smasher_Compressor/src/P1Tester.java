@@ -66,6 +66,7 @@ public class P1Tester {
       {new RGB(163, 222, 132), new RGB(187 ,117, 183), new RGB( 92, 145,  69), new RGB(158, 143,  79), new RGB(220,  75, 222), new RGB(189,  73, 214)},
       {new RGB(211, 120, 173), new RGB(188 ,218, 244), new RGB(214, 103,  68), new RGB(163, 166, 246), new RGB( 79, 125, 246), new RGB(211, 201,  98)}
     });
+    
   }
   
   
