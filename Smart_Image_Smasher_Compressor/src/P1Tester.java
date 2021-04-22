@@ -10,6 +10,8 @@
   */
 
 import org.junit.*;
+import org.junit.jupiter.api.Test;
+
 import static org.junit.Assert.*;
 import java.util.*;
 import java.io.*;
