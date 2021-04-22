@@ -21,8 +21,7 @@ public class P1Tester {
   {
     org.junit.runner.JUnitCore.main("P1Tester");
   }
-  
-  
+    
   // ------------------------------------------------------------------------------------------------
   /* Helper functions for testing. */
   
