@@ -17,8 +17,7 @@ import java.util.*;
 import java.io.*;
 
 public class P1Tester {
-  public static void main(String args[])
-  {
+  public static void main(String args[]) {
     org.junit.runner.JUnitCore.main("P1Tester");
   }
     
